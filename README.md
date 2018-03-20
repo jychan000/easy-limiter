@@ -9,9 +9,9 @@
 ### 引用依赖
 ```
 <dependency>
-    <groupId>com.jychan.tools</groupId>
+    <groupId>com.github.jychan.tools</groupId>
     <artifactId>easy-limiter</artifactId>
-    <version>1.0.5</version>
+    <version>1.0.6</version>
 </dependency>
 ```
 ---- 引入spring aop相关依赖 ----
