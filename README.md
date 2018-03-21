@@ -9,7 +9,7 @@
 ### 引用依赖
 ```
 <dependency>
-    <groupId>com.github.jychan.tools</groupId>
+    <groupId>com.github.jychan</groupId>
     <artifactId>easy-limiter</artifactId>
     <version>1.0.6-SNAPSHOT</version>
 </dependency>
