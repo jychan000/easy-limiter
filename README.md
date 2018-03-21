@@ -11,7 +11,7 @@
 <dependency>
     <groupId>com.github.jychan.tools</groupId>
     <artifactId>easy-limiter</artifactId>
-    <version>1.0.6</version>
+    <version>1.0.6-SNAPSHOT</version>
 </dependency>
 ```
 ---- 引入spring aop相关依赖 ----
