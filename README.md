@@ -32,6 +32,8 @@ spring-boot 可用：
 xml方式扫包：  
 `<context:component-scan base-package="com.jychan.tools.limiter" />`
 
+### 启动自动代理
+`<aop:aspectj-autoproxy />`  
 
 ### 配置限流(快速使用)  
 我们提供两个快速限流注解  
